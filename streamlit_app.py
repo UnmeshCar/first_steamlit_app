@@ -4,8 +4,10 @@ streamlit.title('My first streamlit app')
 
 streamlit.header('Test Menu')
 
-streamlit.text('Omega 3 and Blueberry Oatmeal')
+streamlit.text('🥣 Omega 3 and Blueberry Oatmeal')
 
-streamlit.text('Spinach and Corn Sandwich')
+streamlit.text('🥗 Spinach and Corn Sandwich')
 
-streamlit.text('Hard boiled egg')
+streamlit.text('🐔 Hard boiled egg')
+
+streamlit.text('🥑🍞 Avocado Toast')
